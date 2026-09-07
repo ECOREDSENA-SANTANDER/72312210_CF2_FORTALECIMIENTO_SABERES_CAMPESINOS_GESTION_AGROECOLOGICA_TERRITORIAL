@@ -7,31 +7,31 @@
           span 2
         h1 Diagnóstico participativo y herramientas territoriales
       
-      img.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t2/1.png', alt='')(data-aos='fade-right')
+      img.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t2/1.png')(data-aos='fade-right')
       p.mb-5(data-aos='fade-right') Este componente orienta al aprendiz en la comprensión, apropiación y aplicación de metodologías que permiten analizar de manera integral las condiciones del predio y su entorno, reconociendo la complejidad de los sistemas productivos rurales. Se fundamenta en un enfoque territorial y participativo que considera no solo los aspectos productivos, sino también los factores sociales, culturales, económicos y ambientales que influyen en la dinámica del territorio.
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-9
           .row.justify-content-center.mb-4
             .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
-              img(src='@/assets/curso/temas/t2/3.svg', alt='')
+              img(src='@/assets/curso/temas/t2/3.svg')
             .col-sm-12.col-lg-7.mx-0.px-0.bg-color-6
                 p.mb-0.p-4.mg-1 A través del diagnóstico participativo, se promueve la vinculación activa de la comunidad, reconociendo a los productores y actores locales como sujetos clave en la generación de conocimiento. Este enfoque se basa en el diálogo de saberes, donde el conocimiento técnico se articula con la experiencia y los saberes tradicionales, permitiendo una comprensión más amplia, realista y contextualizada de las problemáticas y oportunidades presentes en el territorio.
 
           
           p.mb-0 En este sentido, el componente busca desarrollar en el aprendiz habilidades para identificar, analizar y priorizar situaciones que afectan el sistema productivo, tales como limitaciones en el uso del suelo, acceso al agua, prácticas productivas inadecuadas, dificultades en la comercialización o debilidades en la organización comunitaria. Asimismo, permite reconocer potencialidades como la biodiversidad, los conocimientos locales, las prácticas agroecológicas y las redes sociales existentes.
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/2.png', alt='')
+          img(src='@/assets/curso/temas/t2/2.png')
 
       
        
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/5.png', alt='')
+          img(src='@/assets/curso/temas/t2/5.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-2
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t2/4.svg', alt='')
+              img(src='@/assets/curso/temas/t2/4.svg')
             .col-sm-12.col-lg-10
                 p.mb-0 El uso de herramientas territoriales y participativas (como mapas parlantes, transectos, entrevistas, encuestas, líneas de tiempo y matrices de priorización) facilita la recolección de información cualitativa y cuantitativa de manera organizada y confiable. Estas herramientas no solo permiten obtener datos relevantes, sino que también fomentan la interacción, el análisis colectivo y la construcción conjunta del conocimiento, fortaleciendo el trabajo en equipo y la cohesión social.
           p.mb-0 De igual manera, este componente enfatiza la importancia del análisis e interpretación de la información recolectada, permitiendo al aprendiz comprender las causas de las problemáticas, identificar relaciones entre los diferentes factores del sistema y proponer alternativas de solución viables y sostenibles. Este proceso contribuye a la toma de decisiones informadas, ajustadas a las condiciones reales del contexto.
@@ -63,16 +63,16 @@
           p.mb-2 Reúne los elementos esenciales que orientan el desarrollo adecuado del diagnóstico participativo, garantizando que el proceso se lleve a cabo de manera organizada, sistemática y coherente con las necesidades del contexto. Estos elementos permiten estructurar de forma clara cada una de las etapas del diagnóstico, desde la identificación del problema hasta la formulación de propuestas, asegurando que los resultados obtenidos sean pertinentes, confiables y útiles para la toma de decisiones.
           p.mb-0 Su comprensión es fundamental, ya que facilita el análisis integral de la información recolectada, permitiendo no solo describir la situación actual del sistema productivo, sino también interpretar sus causas, relaciones y posibles consecuencias. Además, promueve la participación activa de los diferentes actores involucrados (productores, comunidad, técnicos), reconociendo sus conocimientos, experiencias y percepciones como insumos clave para la construcción colectiva del diagnóstico.
         .col-sm-12.col-lg-4.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/8.png', alt='')
+          img(src='@/assets/curso/temas/t2/8.png')
       
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/9.png', alt='')
+          img(src='@/assets/curso/temas/t2/9.png')
         .col-sm-12.col-lg-9
           .row.justify-content-center.mb-4
             .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
-              img(src='@/assets/curso/temas/t2/10.svg', alt='')
+              img(src='@/assets/curso/temas/t2/10.svg')
             .col-sm-12.col-lg-7.mx-0.px-0.bg-color-1
                 p.mb-0.p-4.mg-1 Asimismo, estos aspectos contribuyen a que el proceso diagnóstico no sea únicamente técnico, sino también participativo e inclusivo, fortaleciendo la apropiación de los resultados por parte de la comunidad y aumentando la viabilidad de las acciones propuestas. Esto permite que las soluciones planteadas respondan de manera realista a las condiciones sociales, económicas, ambientales y culturales del territorio.
 
@@ -152,7 +152,7 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/12.png', alt='')
+          img(src='@/assets/curso/temas/t2/12.png')
         .col-sm-12.col-lg-7
             p.mb-3 Se presentan las herramientas metodológicas más utilizadas para facilitar la participación de los actores y la recolección de información en el proceso diagnóstico. Estas técnicas permiten abordar el análisis del territorio y del sistema productivo desde diferentes perspectivas, integrando conocimientos, experiencias y percepciones de la comunidad.
             p.mb-0 Su aplicación contribuye a obtener información más completa y contextualizada, fortaleciendo la comprensión de la realidad local y apoyando la toma de decisiones orientadas al mejoramiento de las condiciones productivas y sociales.
@@ -218,7 +218,7 @@
             p.mb-4 Para la construcción adecuada de esta herramienta es necesario considerar un conjunto de aspectos que permiten representar de manera clara y organizada la información del sistema productivo. Estos elementos orientan la recolección de datos y facilitan la interpretación del espacio, asegurando que el resultado sea útil para el análisis y la planificación.
             p.mb-0 La identificación y organización de estos aspectos contribuye a una mejor comprensión de la distribución, uso y manejo de los recursos dentro del predio, permitiendo visualizar sus características y orientar acciones de mejora de manera efectiva. 
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/14.png', alt='')
+          img(src='@/assets/curso/temas/t2/14.png')
       
       
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -264,7 +264,7 @@
       
       .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/15.png', alt='')
+          img(src='@/assets/curso/temas/t2/15.png')
         .col-sm-12.col-lg-7
             p.mb-4 El mapa del predio constituye una herramienta fundamental para la comprensión integral del sistema productivo, ya que permite visualizar de manera organizada la distribución de sus componentes y la relación entre ellos. Su elaboración facilita el análisis de las condiciones existentes, apoyando la identificación de fortalezas, limitaciones y oportunidades dentro del predio.
             p.mb-0 Además, contribuye a la planificación de actividades, la optimización del uso de los recursos y la toma de decisiones informadas, convirtiéndose en un instrumento clave para el mejoramiento continuo y la sostenibilidad de la unidad productiva.
@@ -287,11 +287,11 @@
 
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/17.png', alt='')
+          img(src='@/assets/curso/temas/t2/17.png')
         .col-sm-12.col-lg-9
           .row.justify-content-center.mb-4
             .col-sm-12.col-lg-5.d-none.d-lg-block.mx-0.px-0
-              img(src='@/assets/curso/temas/t2/18.svg', alt='')
+              img(src='@/assets/curso/temas/t2/18.svg')
             .col-sm-12.col-lg-7.mx-0.px-0.bg-color-1
                 p.mb-0.p-4.mg-1 La aplicación de esta herramienta es especialmente útil en procesos de diagnóstico, ya que permite priorizar acciones de manera estratégica, optimizar el uso de recursos disponibles y enfocar los esfuerzos en aquellos aspectos que generan mayor impacto dentro del sistema productivo. Esto evita la dispersión de esfuerzos en problemas secundarios y contribuye a una toma de decisiones más eficiente y fundamentada.
 
@@ -309,7 +309,7 @@
 
             p.mb-0 El reconocimiento de estas particularidades contribuye a que la técnica sea aplicada de forma eficiente, orientando el análisis hacia resultados claros, útiles y enfocados en la toma de decisiones dentro del predio o el territorio.
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/19.png', alt='')
+          img(src='@/assets/curso/temas/t2/19.png')
 
 
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -366,7 +366,7 @@
       
       .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t2/20.png', alt='')
+          img(src='@/assets/curso/temas/t2/20.png')
         .col-sm-12.col-lg-7
             p.mb-4 Es de gran utilidad como herramienta de apoyo para el análisis y mejoramiento del sistema productivo. Su aplicación permite identificar situaciones relevantes, orientar la priorización de acciones y facilitar la toma de decisiones con base en criterios claros y contextualizados.
 

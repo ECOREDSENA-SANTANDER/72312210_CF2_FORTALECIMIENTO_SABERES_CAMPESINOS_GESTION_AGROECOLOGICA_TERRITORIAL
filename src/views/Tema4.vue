@@ -7,7 +7,7 @@
           span 4
         h1 Seguimiento, articulación y sostenibilidad
       
-      img.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t4/1.png', alt='')(data-aos='fade-right')
+      img.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t4/1.png')(data-aos='fade-right')
       p.mb-3(data-aos='fade-right') Este componente orienta al aprendiz en la comprensión de los procesos necesarios para garantizar la continuidad, evaluación y mejora del sistema productivo. A través del seguimiento, la articulación con actores del territorio y la aplicación de principios de sostenibilidad, se busca fortalecer la capacidad de adaptación del predio y asegurar resultados a largo plazo.
       p.mb-0(data-aos='fade-right') El análisis continuo del sistema productivo permite tomar decisiones oportunas, optimizar recursos y mantener el equilibrio entre productividad, bienestar familiar y conservación de los recursos naturales.
       
@@ -199,7 +199,7 @@
       
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/6.png', alt='')
+          img(src='@/assets/curso/temas/t4/6.png')
         .col-sm-12.col-lg-7
             p.mb-0 Para comprender de manera integral la sostenibilidad en el sistema productivo, es necesario analizarla desde diferentes perspectivas que permitan evaluar su equilibrio y permanencia en el tiempo. Estas perspectivas se agrupan en dimensiones que orientan la gestión del predio, facilitando la identificación de aspectos clave que influyen en su desempeño y en la toma de decisiones. A continuación, se presentan las principales dimensiones que permiten valorar la sostenibilidad del sistema productivo en el contexto rural.
 
@@ -207,13 +207,13 @@
         .col-sm-12.col-lg-10.position-relative
           .avatar
             figure
-              img(src="@/assets/curso/temas/t4/7.svg", alt="alt").img250
+              img(src="@/assets/curso/temas/t4/7.svg").img250
           
           .crd.crd--avatarHorizontal.crd--first.py-4
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/t4/8.svg", alt="alt").img100
+                  img(src="@/assets/curso/temas/t4/8.svg").img100
               .col
                 h5 Ambiental
                 p.mb-0 Se orienta a la conservación y uso responsable de los recursos naturales, garantizando la protección del suelo, el agua y la biodiversidad mediante prácticas sostenibles. Incluye acciones como el manejo adecuado de residuos, la protección de fuentes hídricas, la cobertura vegetal y la implementación de técnicas que favorezcan la regeneración natural de los ecosistemas.
@@ -222,7 +222,7 @@
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/t4/9.svg", alt="alt").img100
+                  img(src="@/assets/curso/temas/t4/9.svg").img100
               .col
                 h5 Económica
                 p.mb-0 Se enfoca en la generación de ingresos estables y en la rentabilidad del sistema productivo, asegurando la viabilidad económica del predio a largo plazo. Implica una adecuada gestión de costos, optimización del uso de recursos, acceso a mercados y fortalecimiento de procesos de comercialización que permitan mejorar la competitividad.
@@ -230,7 +230,7 @@
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/t4/10.svg", alt="alt").img100
+                  img(src="@/assets/curso/temas/t4/10.svg").img100
               .col
                 h5 Social
                 p.mb-0 Busca la mejora de la calidad de vida de la familia campesina, promoviendo condiciones de equidad, bienestar y participación. Incluye el fortalecimiento de la organización comunitaria, el acceso a servicios básicos, la seguridad alimentaria y el reconocimiento de los saberes locales como parte fundamental del desarrollo rural.
@@ -243,37 +243,37 @@
         .col-sm-12.col-lg-7
             p.mb-0 Para fortalecer la sostenibilidad del sistema productivo, es necesario definir acciones orientadas a mejorar el manejo de los recursos, optimizar los procesos productivos y responder de manera adecuada a las condiciones del entorno. Estas acciones se organizan en estrategias que permiten orientar la gestión del predio hacia un equilibrio entre productividad, conservación y bienestar. A continuación, se presentan algunas estrategias que contribuyen al logro de sistemas productivos sostenibles.
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/11.png', alt='')
+          img(src='@/assets/curso/temas/t4/11.png')
 
       SlyderF.mb-5(columnas="col-md-6 col-xl-4")(data-aos='fade-right')
         .tarjeta.bg-color-7.p-4
           .row.justify-content-center.mb-5
             .col-5
-              img.wcus-3(src='@/assets/curso/temas/t4/13.svg' alt='')
+              img.wcus-3(src='@/assets/curso/temas/t4/13.svg')
           h4.text-center Uso eficiente de los recursos naturales 
           p.mb-0.text-center  Aprovechamiento adecuado del suelo, el agua y la biodiversidad, evitando el deterioro y promoviendo su conservación. 
         .tarjeta.bg-color-7.p-4
           .row.justify-content-center.mb-5
             .col-5
-              img.wcus-3(src='@/assets/curso/temas/t4/14.svg' alt='')
+              img.wcus-3(src='@/assets/curso/temas/t4/14.svg')
           h4.text-center  Implementación de prácticas agroecológicas
           p.mb-0.text-center  Aplicación de técnicas sostenibles que reduzcan el uso de insumos externos y favorezcan el equilibrio del sistema productivo. 
         .tarjeta.bg-color-7.p-4
           .row.justify-content-center.mb-5
             .col-5
-              img.wcus-3(src='@/assets/curso/temas/t4/15.svg' alt='')
+              img.wcus-3(src='@/assets/curso/temas/t4/15.svg')
           h4.text-center  Diversificación productiva
           p.mb-0.text-center  Integración de diferentes actividades agrícolas y pecuarias que permitan reducir riesgos y mejorar la estabilidad económica. 
         .tarjeta.bg-color-7.p-4
           .row.justify-content-center.mb-5
             .col-5
-              img.wcus-3(src='@/assets/curso/temas/t4/16.svg' alt='')
+              img.wcus-3(src='@/assets/curso/temas/t4/16.svg')
           h4.text-center  Reducción de impactos ambientales negativos
           p.mb-0.text-center  Disminución de prácticas que afecten el entorno, como el uso excesivo de agroquímicos o la degradación del suelo. 
         .tarjeta.bg-color-7.p-4
           .row.justify-content-center.mb-5
             .col-5
-              img.wcus-3(src='@/assets/curso/temas/t4/18.svg' alt='')
+              img.wcus-3(src='@/assets/curso/temas/t4/18.svg')
           h4.text-center  Fortalecimiento de capacidades del productor
           p.mb-0.text-center  Desarrollo de conocimientos, habilidades y competencias que permitan mejorar la gestión del sistema productivo. 
 
@@ -282,7 +282,7 @@
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Estrategias para la sostenibilidad
       .row.justify-content-center.mb-0.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/12.png', alt='')
+          img(src='@/assets/curso/temas/t4/12.png')
         .col-sm-12.col-lg-7
             p.mb-0 La sostenibilidad se evalúa de manera continua, integrando diferentes fuentes de información que permiten analizar el desempeño del sistema productivo en sus dimensiones ambiental, económica y social. Este proceso facilita la identificación de avances, limitaciones y oportunidades de mejora.
             p.mb-3 Para su evaluación se tienen en cuenta:

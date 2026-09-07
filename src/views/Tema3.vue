@@ -7,7 +7,7 @@
           span 3
         h1 Planificación del sistema productivo
       
-      img.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t3/1.png', alt='')(data-aos='fade-right')
+      img.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t3/1.png')(data-aos='fade-right')
       p.mb-3(data-aos='fade-right') La planificación del sistema productivo es un proceso fundamental que permite organizar de manera estratégica las actividades del predio, orientando el uso eficiente de los recursos y la toma de decisiones informadas. A partir del análisis previo del diagnóstico, se establecen acciones concretas que buscan mejorar la productividad, la sostenibilidad y la rentabilidad del sistema.
       p.mb-5 Este proceso integra aspectos técnicos, económicos y ambientales, permitiendo al productor anticiparse a posibles dificultades, optimizar tiempos de trabajo y garantizar una mejor organización de las actividades agrícolas.
       
@@ -37,13 +37,13 @@
               .bg-color-6.p-5.mb-0
                 p.mb-0 El plan de mejora no se limita a la identificación de problemas, sino que establece de manera estructurada soluciones concretas, viables y adaptadas a las condiciones reales del contexto. Esto implica definir objetivos claros, actividades específicas, responsables, tiempos de ejecución y recursos necesarios, lo que facilita su implementación y seguimiento.
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t3/3.png', alt='')
+              img(src='@/assets/curso/temas/t3/3.png')
       
       p.mb-5(data-aos='fade-right') Además, este plan promueve un enfoque de mejoramiento continuo, ya que no se trata de una acción puntual, sino de un proceso dinámico que se ajusta a medida que cambian las condiciones del entorno o se obtienen nuevos resultados. En este sentido, permite evaluar periódicamente los avances, realizar ajustes y fortalecer las estrategias implementadas.
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/4.png', alt='')
+          img(src='@/assets/curso/temas/t3/4.png')
         .col-sm-12.col-lg-7
           p.mb-4 Otro aspecto relevante es su carácter participativo, ya que involucra al productor y, en muchos casos, a la comunidad en la definición de acciones y en la toma de decisiones. Esto favorece la apropiación del proceso, incrementa el compromiso y mejora la sostenibilidad de las soluciones planteadas.
           p.mb-0 Finalmente, el plan de mejora se convierte en una herramienta clave para la planificación agropecuaria, ya que facilita la organización del predio, optimiza el uso de los recursos disponibles y contribuye al desarrollo de sistemas productivos más eficientes, resilientes y sostenibles, en armonía con el entorno y las necesidades del territorio.
@@ -68,7 +68,7 @@
         .col-sm-12.col-lg-7
             p.mb-0 Se presentan los componentes que estructuran la formulación del plan de mejora, permitiendo organizar de manera lógica y coherente las acciones orientadas al fortalecimiento del sistema productivo. Estos elementos facilitan la planificación, ejecución y seguimiento de las actividades, asegurando que las intervenciones sean pertinentes, medibles y ajustadas a las condiciones del predio.
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/6.png', alt='')
+          img(src='@/assets/curso/temas/t3/6.png')
       
       
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -149,7 +149,7 @@
       
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/7.png', alt='')
+          img(src='@/assets/curso/temas/t3/7.png')
         .col-sm-12.col-lg-7
             p.mb-0 Se destaca el valor del plan de mejora como instrumento de gestión para orientar acciones que fortalezcan el sistema productivo. Su implementación permite dar dirección al proceso de intervención, facilitando la organización de actividades y la toma de decisiones con base en criterios técnicos y contextuales. También permite priorizar acciones según su impacto, mejora la eficiencia en el uso de los recursos y promover la mejora continua del sistema productivo. 
       
@@ -162,7 +162,7 @@
           p.mb-3 El análisis DOFA es una herramienta estratégica que permite comprender de manera integral la situación del sistema productivo, facilitando la toma de decisiones fundamentadas. Su principal aporte radica en organizar la información obtenida del diagnóstico, permitiendo identificar relaciones entre factores internos y externos que inciden en el desempeño del predio.
           p.mb-0 Más allá de la identificación de variables, el análisis DOFA orienta la formulación de estrategias, promoviendo un enfoque proactivo que permite al productor anticiparse a escenarios, optimizar sus capacidades y adaptarse a las condiciones del entorno.
         .col-sm-12.col-lg-6
-          img(src='@/assets/curso/temas/t3/8.svg', alt='')
+          img(src='@/assets/curso/temas/t3/8.svg')
       
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/bg/1.svg')
@@ -188,7 +188,7 @@
                 p.mb-4 Son situaciones externas que pueden afectar negativamente el predio, como variabilidad climática, plagas y enfermedades, fluctuación de precios o dificultades en la comercialización.
                 p.mb-0 #[b NOTA:] su identificación permite anticipar riesgos y diseñar estrategias de mitigación. 
         .col-sm-12.col-lg-4.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/9.png', alt='')
+          img(src='@/assets/curso/temas/t3/9.png')
       
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/bg/1.svg')
@@ -196,7 +196,7 @@
       
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/10.png', alt='')
+          img(src='@/assets/curso/temas/t3/10.png')
         .col-sm-12.col-lg-7
             p.mb-3 En el ámbito rural, esta herramienta se adapta a las características del predio, considerando aspectos como la disponibilidad de recursos naturales, el conocimiento del productor, las condiciones del mercado y los factores climáticos.
             p.mb-0 Su aplicación permite interpretar el sistema productivo como un conjunto dinámico, donde cada elemento influye en los resultados obtenidos. El análisis DOFA permite:
@@ -244,7 +244,7 @@
       
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/12.png', alt='')
+          img(src='@/assets/curso/temas/t3/12.png')
         .col-sm-12.col-lg-7
             p.mb-3 Se presentan los elementos esenciales que orientan la organización y desarrollo de la planificación del cultivo dentro del sistema productivo. Estos aspectos permiten estructurar de manera lógica las decisiones relacionadas con la producción, facilitando la articulación entre los recursos disponibles, las condiciones del predio y los objetivos del productor.
             p.mb-0 Su comprensión contribuye a mejorar la eficiencia en la ejecución de las actividades agrícolas, optimizar el uso de insumos y fortalecer la capacidad de anticipación frente a posibles dificultades, favoreciendo un manejo más ordenado y sostenible del proceso productivo. 
@@ -293,7 +293,7 @@
             p.mb-3 Se reconoce el valor de la planificación del cultivo como un proceso fundamental para organizar de manera anticipada las actividades agrícolas, permitiendo al productor orientar sus acciones de forma eficiente y acorde con las condiciones del predio. Su aplicación contribuye a mejorar la coordinación de las labores, optimizar el uso de los recursos disponibles y reducir la improvisación en el manejo del cultivo.
             p.mb-0 Asimismo, fortalece la capacidad de respuesta frente a factores que pueden afectar la producción, favoreciendo el logro de mejores resultados en términos de rendimiento, calidad y sostenibilidad del sistema productivo.
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t3/13.png', alt='')
+          img(src='@/assets/curso/temas/t3/13.png')
 
 
 

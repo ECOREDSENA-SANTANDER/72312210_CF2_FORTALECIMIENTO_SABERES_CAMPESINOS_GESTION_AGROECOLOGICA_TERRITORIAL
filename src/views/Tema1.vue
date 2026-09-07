@@ -7,17 +7,17 @@
           span 1
         h1 Economía campesina y caracterización del predio
       
-      img.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t1/1.png', alt='')(data-aos='fade-right')
+      img.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t1/1.png')(data-aos='fade-right')
       p.mb-5(data-aos='fade-right') Este capítulo aborda los fundamentos que permiten comprender la dinámica productiva y social de las unidades agrícolas familiares, así como las características propias del predio rural como espacio de producción. Se enfoca en analizar cómo las condiciones económicas, ambientales y territoriales influyen en la toma de decisiones del productor, la organización del trabajo y el uso de los recursos disponibles.
       
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/2.png', alt='')
+          img(src='@/assets/curso/temas/t1/2.png')
         .col-sm-12.col-lg-9
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-5.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/3.svg', alt='')
+              img(src='@/assets/curso/temas/t1/3.svg')
             .col-sm-12.col-lg-7.bg-color-1.p-5
                 p.mb-0 Asimismo, permite reconocer la importancia de identificar las particularidades del predio (como su ubicación, disponibilidad de recursos, tipo de suelo, clima y sistemas productivos) para orientar prácticas sostenibles y eficientes. Este análisis integral facilita la planificación de actividades agropecuarias acordes con el contexto, promoviendo el equilibrio entre productividad, conservación ambiental y bienestar familiar.
           p.mb-0 En este sentido, se integran elementos económicos, agroecológicos y territoriales que permiten al aprendiz interpretar el predio no solo como un espacio físico, sino como un sistema complejo donde interactúan factores naturales, sociales y culturales.
@@ -34,11 +34,11 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/4.png', alt='')
+          img(src='@/assets/curso/temas/t1/4.png')
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-3
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/5.svg', alt='')
+              img(src='@/assets/curso/temas/t1/5.svg')
             .col-sm-12.col-lg-10
                 p.mb-0 La economía campesina constituye un modelo productivo fundamental en las zonas rurales, basado en la organización familiar y en el aprovechamiento integral de los recursos disponibles en el entorno. Este sistema no solo busca la generación de ingresos económicos, sino también garantizar la subsistencia, la estabilidad social y la conservación de saberes tradicionales.
           p.mb-0 En este tipo de economía, la familia cumple un rol central como unidad de producción, consumo y toma de decisiones. Las actividades productivas están estrechamente ligadas a las condiciones del territorio, al conocimiento ancestral y a prácticas sostenibles que permiten mantener la productividad a lo largo del tiempo.  A diferencia de los modelos agroindustriales, la economía campesina prioriza el equilibrio entre producción y conservación, promoviendo sistemas diversificados que reducen la dependencia de insumos externos y aumentan la resiliencia frente a cambios climáticos o económicos.
@@ -53,7 +53,7 @@
           p.mb-3 La economía campesina se estructura a partir de un conjunto de elementos interrelacionados que orientan la organización del sistema productivo y la gestión de los recursos en el ámbito rural. Estos componentes permiten comprender la lógica interna de funcionamiento de las unidades familiares, así como las estrategias que implementan para garantizar su sostenibilidad económica y social.
           p.mb-0 El análisis de estos componentes facilita la interpretación de las dinámicas productivas, la toma de decisiones y la adaptación a las condiciones del entorno, constituyéndose en una base fundamental para la planificación y el fortalecimiento de los sistemas agropecuarios desde un enfoque integral.
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/6.png', alt='')
+          img(src='@/assets/curso/temas/t1/6.png')
       
       
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
@@ -109,14 +109,14 @@
                 p.mb-0 Los predios agroecológicos son unidades productivas que implementan los principios y enfoques de la agroecología, orientados a construir sistemas agrícolas sostenibles, resilientes y socialmente justos. Estos predios se conciben como sistemas integrales donde interactúan de manera armónica los componentes naturales (suelo, agua, biodiversidad), productivos (cultivos y animales) y humanos (familia, comunidad y saberes locales), buscando un equilibrio entre la producción de alimentos, la conservación del ambiente y el bienestar de las familias campesinas.
               p.mb-0 En este tipo de predios, la producción no se basa únicamente en la maximización del rendimiento, sino en la optimización de los recursos disponibles y en el fortalecimiento de los procesos ecológicos. Por ello, se promueve el reciclaje de nutrientes, el uso eficiente del agua, la conservación de la fertilidad del suelo y la diversificación de los sistemas productivos. Esto se logra mediante prácticas como la rotación y asociación de cultivos, el uso de abonos orgánicos, la implementación de cercas vivas, sistemas agroforestales y el manejo integrado de plagas.
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/7.png', alt='')
+              img(src='@/assets/curso/temas/t1/7.png')
 
       p.mb-5(data-aos='fade-right') La agroecología, como enfoque científico, práctico y social, impulsa la reducción progresiva del uso de insumos externos como fertilizantes y plaguicidas químicos, priorizando alternativas naturales y sostenibles. Asimismo, fomenta la recuperación y valorización de los conocimientos tradicionales campesinos, integrándolos con innovaciones técnicas que permiten mejorar la productividad sin comprometer los recursos naturales.
       
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/8.png', alt='')
+          img(src='@/assets/curso/temas/t1/8.png')
         .col-sm-12.col-lg-7
           p.mb-4 De igual manera, los predios agroecológicos fortalecen la biodiversidad tanto a nivel de especies cultivadas como de organismos presentes en el ecosistema (microorganismos del suelo, polinizadores, fauna benéfica), lo cual contribuye a la estabilidad del sistema productivo y a su capacidad de adaptación frente a fenómenos como el cambio climático, las plagas o las variaciones del mercado.
           p.mb-0 Otro aspecto fundamental es su enfoque social y territorial, ya que estos predios promueven la autonomía de las familias rurales, la soberanía alimentaria y la economía local, a través de prácticas como el autoconsumo, el intercambio de semillas, los mercados campesinos y la producción a pequeña escala con valor agregado.
@@ -139,7 +139,7 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-4.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/10.png', alt='')
+          img(src='@/assets/curso/temas/t1/10.png')
         .col-sm-12.col-lg-8
           .bg-color-6.p-5.mb-5
             p.mb-0 Las prácticas agroecológicas comprenden un conjunto de técnicas, conocimientos y estrategias orientadas al manejo sostenible de los sistemas productivos agrícolas, basadas en el respeto por los ciclos naturales y el equilibrio de los ecosistemas. Estas prácticas buscan reducir la dependencia de insumos externos como agroquímicos, promoviendo en su lugar el uso de recursos locales, procesos biológicos y saberes tradicionales.
@@ -230,7 +230,7 @@
                 p.mb-0 Los agroecosistemas son sistemas productivos agrícolas concebidos como ecosistemas manejados por el ser humano, en los que interactúan de manera dinámica los cultivos, los animales, los microorganismos y los factores ambientales como el suelo, el agua, el clima y la biodiversidad. A diferencia de los sistemas convencionales, los agroecosistemas se diseñan buscando imitar el funcionamiento de los ecosistemas naturales, promoviendo relaciones equilibradas, reciclaje de nutrientes y autorregulación.
               p.mb-0 En el enfoque agroecológico, el agroecosistema no se entiende como un conjunto aislado de actividades productivas, sino como un sistema integral donde cada componente cumple una función específica y se relaciona con los demás. Por ejemplo, los residuos de los cultivos pueden convertirse en abono, los animales aportan estiércol y controlan malezas, y la biodiversidad contribuye al control natural de plagas.
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/11.png', alt='')
+              img(src='@/assets/curso/temas/t1/11.png')
           p.mb-0 Asimismo, el diseño del agroecosistema implica organizar de manera estratégica los elementos dentro del predio, teniendo en cuenta las condiciones del entorno (clima, topografía, disponibilidad de agua y tipo de suelo) y las necesidades de la familia productora. Esto incluye la distribución de cultivos, áreas para animales, fuentes de agua, zonas de conservación y espacios de vivienda, buscando eficiencia, sostenibilidad y resiliencia.
 
       .cajon.color-secundario.p-4.mb-5(data-aos='fade-right')
@@ -313,7 +313,7 @@
         .p-full-width
           .row.justify-content-center.mb-5
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/12.png', alt='')
+              img(src='@/assets/curso/temas/t1/12.png')
             .col-sm-12.col-lg-8
               .bg-color-2.p-4.mb-3
                 p.mb-3 La biodiversidad hace referencia a la variedad de formas de vida presentes en un ecosistema, incluyendo plantas, animales, microorganismos y sus interacciones. En el contexto de los sistemas productivos agroecológicos, la biodiversidad no solo implica tener muchas especies, sino también la forma en que estas se relacionan y contribuyen al equilibrio del sistema.
@@ -405,7 +405,7 @@
                 p.mb-3 La soberanía alimentaria es el derecho y la capacidad de las familias, comunidades y pueblos para decidir qué producir, cómo producirlo y qué consumir, de acuerdo con sus necesidades, cultura y condiciones territoriales. Va más allá de la simple disponibilidad de alimentos (seguridad alimentaria), ya que pone en el centro la autonomía, el control local de los recursos y el respeto por las tradiciones productivas y alimentarias.
               p.mb-0 En los sistemas campesinos y agroecológicos, la soberanía alimentaria se fundamenta en la producción diversificada de alimentos, el uso de semillas propias (criollas o nativas), el conocimiento tradicional y la reducción de la dependencia de insumos externos y mercados globales. Esto permite que las familias no solo accedan a alimentos suficientes, sino también nutritivos, culturalmente apropiados y producidos de manera sostenible.
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/13.png', alt='')
+              img(src='@/assets/curso/temas/t1/13.png')
       p.mb-3(data-aos='fade-right') Además, promueve prácticas como el autoconsumo, el intercambio de productos (trueque), la comercialización local y la transformación artesanal, fortaleciendo la economía rural y la identidad cultural. También implica la defensa del territorio, el acceso a la tierra, al agua y a otros recursos productivos esenciales.
       p.mb-5(data-aos='fade-right') La soberanía alimentaria contribuye a la resiliencia de los sistemas productivos frente a crisis económicas, climáticas o sociales, ya que reduce la vulnerabilidad al depender menos de factores externos. En este sentido, es un pilar fundamental para el desarrollo rural sostenible, la justicia social y la conservación de la biodiversidad.
 
@@ -486,7 +486,7 @@
         .p-full-width
           .row.justify-content-center.mb-0
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/14.png', alt='')
+              img(src='@/assets/curso/temas/t1/14.png')
             .col-sm-12.col-lg-8
               .bg-color-7.px-4.py-5.mb-3
                 p.mb-3 La seguridad alimentaria se refiere a la condición en la cual todas las personas, en todo momento, tienen acceso físico, económico y social a alimentos suficientes, seguros (inocuos) y nutritivos que satisfacen sus necesidades alimentarias y preferencias culturales para llevar una vida activa y saludable.
@@ -580,7 +580,7 @@
                 p.mb-3 La transición agroecológica es un proceso gradual y continuo mediante el cual un sistema productivo convencional, caracterizado por el uso intensivo de agroquímicos y la simplificación de los cultivos, evoluciona hacia un sistema más sostenible, diversificado y en armonía con el medio ambiente.
               p.mb-0 Este proceso no ocurre de manera inmediata, sino que implica una serie de cambios progresivos en las prácticas agrícolas, la gestión de los recursos naturales y la forma en que el productor toma decisiones. Requiere aprendizaje, experimentación, adaptación al contexto local y, sobre todo, un cambio de enfoque: pasar de depender de insumos externos a aprovechar los procesos naturales del agroecosistema.  Durante la transición, el productor incorpora prácticas como el uso de abonos orgánicos, la diversificación de cultivos, el control biológico de plagas y la conservación del suelo y el agua. Al mismo tiempo, reduce gradualmente el uso de fertilizantes y pesticidas químicos.
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/15.png', alt='')
+              img(src='@/assets/curso/temas/t1/15.png')
       p.mb-0(data-aos='fade-right') Además, la transición agroecológica no solo implica cambios técnicos, sino también sociales y económicos, ya que fortalece la autonomía del productor, promueve el intercambio de conocimientos (por ejemplo, metodologías campesino a campesino) y fomenta mercados locales más justos.
       p.mb-5(data-aos='fade-right') En este sentido, la transición agroecológica es un camino hacia sistemas productivos más resilientes, sostenibles y económicamente viables, que contribuyen a la soberanía alimentaria y al desarrollo rural sostenible.
 
@@ -625,7 +625,7 @@
         .p-full-width
           .row.justify-content-center.mb-0
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/16.png', alt='')
+              img(src='@/assets/curso/temas/t1/16.png')
             .col-sm-12.col-lg-8
               .bg-color-2.p-5.mb-5
                 p.mb-0 El cuidado del suelo es un conjunto de prácticas orientadas a conservar, mejorar y restaurar la fertilidad, estructura y vida del suelo, reconociéndolo como un recurso fundamental y un sistema vivo dentro de la producción agropecuaria. En los enfoques agroecológicos, el suelo no se considera solo un soporte físico, sino un ecosistema dinámico donde interactúan microorganismos, materia orgánica, agua y nutrientes esenciales para el desarrollo de los cultivos.
@@ -702,12 +702,12 @@
                 p.mb-0 El territorio es un concepto integral y dinámico que trasciende la simple noción de espacio geográfico o físico. Comprende un conjunto de elementos interrelacionados que incluyen los recursos naturales (suelo, agua, clima, biodiversidad), las características sociales (formas de organización, relaciones comunitarias), los aspectos culturales (tradiciones, saberes ancestrales, identidad) y las dinámicas económicas (formas de producción, comercialización y acceso a mercados). Estos componentes no actúan de manera aislada, sino que interactúan constantemente, configurando un sistema complejo que influye en la vida y el desarrollo de las comunidades.
               p.mb-0 En el contexto agropecuario, el territorio juega un papel determinante, ya que condiciona las prácticas productivas que pueden implementarse, los tipos de cultivos y sistemas pecuarios que se desarrollan, así como las tecnologías apropiadas para cada entorno. Por ejemplo, factores como el clima, la topografía, la disponibilidad de agua y la calidad del suelo inciden directamente en la productividad y sostenibilidad de las actividades agrícolas. De igual manera, las características sociales y culturales influyen en la forma en que las familias campesinas organizan su trabajo, transmiten conocimientos y toman decisiones sobre el uso de los recursos.
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/17.png', alt='')
+              img(src='@/assets/curso/temas/t1/17.png')
           p.mb-0 Además, el territorio también está asociado a relaciones de poder, acceso y uso de los recursos, lo cual impacta las oportunidades de desarrollo de las comunidades rurales. Aspectos como la tenencia de la tierra, la infraestructura, el acceso a servicios y mercados, y las políticas públicas inciden en la manera en que se aprovecha el territorio y en las condiciones de vida de la población.
 
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/18.png', alt='')
+          img(src='@/assets/curso/temas/t1/18.png')
         .col-sm-12.col-lg-7
           p.mb-4 Comprender el territorio es fundamental para realizar una planificación adecuada de las actividades agropecuarias, ya que permite identificar potencialidades, limitaciones y riesgos, y diseñar estrategias productivas acordes con las condiciones locales. Este enfoque territorial facilita el uso sostenible de los recursos naturales, promueve la conservación del ambiente y fortalece la resiliencia de los sistemas productivos frente a cambios climáticos y económicos.
           p.mb-0 En este sentido, el territorio no debe ser visto únicamente como un espacio de producción, sino como un sistema vivo y en constante transformación, donde convergen factores naturales y humanos que requieren ser gestionados de manera integral, participativa y sostenible para garantizar el bienestar de las generaciones presentes y futuras.
